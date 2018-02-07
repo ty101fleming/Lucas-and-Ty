@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lucas and Ty Door frAME.unity
+  isLoaded: 1
+  isActive: 1
